@@ -29,4 +29,4 @@ Collection Class in a complete program. It contains:
 
 Multi-thread Practise. It contains:
 - *Thread*, how to create a new thread and start it
-> The core download codes are copied from the teacher, "https://www.dstang.com"
+> The core download codes are provided by the teacher, *dstang*.
