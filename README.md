@@ -24,3 +24,9 @@ Exception handling of java. It contains:
 
 Collection Class in a complete program. It contains:
 - *LinkedList*
+
+### Week8.java
+
+Multi-thread Practise. It contains:
+- *Thread*, how to create a new thread and start it
+> The core download codes are copied from the teacher, "https://www.dstang.com"
